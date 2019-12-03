@@ -6,7 +6,7 @@ public class Math {
     }
 
     public int sub(int first, int second){
-        int sum = first - second;
+        int sum = first + second;
         return sum;
     }
 }
