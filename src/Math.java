@@ -6,7 +6,8 @@ public class Math {
     }
 
     public int sub(int first, int second){
-        int sum = first + second;
+        System.out.println("Simons ändring");
+        int sum = first - second;
         return sum;
     }
 }
